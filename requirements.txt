@@ -1,3 +1,5 @@
 datasets
 pandas
 langchain-core
+ddgs
+langchain-community
