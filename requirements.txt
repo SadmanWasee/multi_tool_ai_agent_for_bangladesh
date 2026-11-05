@@ -4,3 +4,4 @@ langchain-core
 ddgs
 langchain-community
 langchain-ollama
+langchain-classic
